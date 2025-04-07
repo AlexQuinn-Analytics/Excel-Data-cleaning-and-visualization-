@@ -1,7 +1,7 @@
-# Social Buzz Virtual Experience Program (Accenture x Forage)
+# Data Analytics and Visualization Job Simulation Program (Accenture x Forage)
 
 ## 📋 Project Overview
-This project was completed as part of the Accenture Social Buzz Virtual Experience Program hosted on Forage.  
+This project was completed as part of the Accenture Data Analytics and Visualization Job Simulation Program hosted on Forage.  
 It simulates a real-world scenario where, as an Accenture analyst, I provided data-driven insights and strategic recommendations to a client — a social media company called **Social Buzz** — aiming to enhance user experience and brand reputation.
 
 ## 🎯 Project Objectives
